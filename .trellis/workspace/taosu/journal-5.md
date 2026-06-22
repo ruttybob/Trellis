@@ -1088,3 +1088,38 @@ Investigated why v0.6.0-beta.18/19 did not install trellis-spec-bootstarp after 
 ### Next Steps
 
 - None - task complete
+
+
+## Session 168: Spec maintainer audit
+
+**Date**: 2026-06-18
+**Task**: Spec maintainer audit
+**Package**: cli
+**Branch**: `main`
+
+### Summary
+
+Repaired Trellis package/spec routing, added repo and core spec indexes, fixed stale spec references, and validated drift scanner/package context.
+
+### Main Changes
+
+(Add details)
+
+### Git Commits
+
+| Hash | Message |
+|------|---------|
+| `db07899e` | (see git log) |
+| `3c2f947f` | (see git log) |
+
+### Testing
+
+- [OK] (Add test results)
+
+### Status
+
+[OK] **Completed**
+
+### Next Steps
+
+- None - task complete
